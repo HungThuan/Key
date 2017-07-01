@@ -1,2 +1,2 @@
-[                              Kiem Tra pass                                                           ]
-Password = hungthuan
+ID: QWER
+PASS: 12345
